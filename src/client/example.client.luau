@@ -1,0 +1,1 @@
+require(game:GetService("ReplicatedStorage").shared.example)("example.client.luau")
