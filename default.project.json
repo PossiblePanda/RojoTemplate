@@ -15,6 +15,9 @@
       },
       "types": {
         "$path": "src/types"
+      },
+      "enums" : {
+        "$path": "src/enums"
       }
     },
 
