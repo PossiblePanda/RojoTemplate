@@ -12,6 +12,9 @@
       },
       "data": {
         "$path": "data"
+      },
+      "types": {
+        "$path": "src/types"
       }
     },
 
