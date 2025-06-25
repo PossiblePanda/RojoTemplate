@@ -8,4 +8,4 @@ local ExampleEnum = {
     Example3 = 3,
 }
 
-return ExampleEnum :: { [ExampleEnum]: number }
+return ExampleEnum
